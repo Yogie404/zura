@@ -1,0 +1,2 @@
+# zura
+tea tesnet
